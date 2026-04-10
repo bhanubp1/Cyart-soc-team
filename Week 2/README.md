@@ -22,8 +22,3 @@
 4. Analyzed logs and identified attack
 5. Responded by isolating system and blocking attacker
 6. Collected evidence (memory dump, network logs)
-
-## 🔹 Files Included
-- PDF Report
-- Screenshots
-- Notes
